@@ -12,7 +12,7 @@ If a corresponding sign is found, its name is returned; otherwise, the message "
 3 - Run the script using the command:
 
 ```bash
-node astrological_sign.js
+node colecao_signos.js
 ```
 The function will return the zodiac sign for the current date.
 
